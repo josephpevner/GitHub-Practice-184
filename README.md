@@ -34,7 +34,8 @@
 
 | Name              | Class Section     | GitHub ID            | website for a GitHub repo         |  
 |:------------------|:------------------|:---------------------|:----------------------------------|  
-| Mudong Zeng   | Section 002      | zengmudong          | <https://zengmudong.github.io/Demo-STAT184/>    |  
+| Mudong Zeng   | Section 002      | zengmudong          | <https://zengmudong.github.io/Demo-STAT184/>    | 
+| Joseph Pevner   | Section 002      | josephpevner          | <https://github.com/josephpevner/josephpevner-STAT184>    | 
 
 
 <br>
