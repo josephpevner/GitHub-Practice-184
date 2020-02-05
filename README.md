@@ -54,6 +54,7 @@
 | Debanshu Das | Section 002 | debanshu98 | <https://github.com/debanshu98/STAT184> |
 | Shaohan Wang | Section 002 | svw5523    | <https://svw5523.github.io/STAT184-Assignment-1/> |
 | Hyunwoo Kim  | Section 002 | hyunwoo312 | <https://hyun.app> |
+| Joseph Pevner | Section 002 | jfp5556 | <https://github.com/josephpevner/josephpevner-STAT184> |
 
 # Integration of RStudio with Git
 
